@@ -1,0 +1,102 @@
+20200810 16:34:31,,,,,,,,,
+需求池ID,所属主项目,需求池简要,需求池confluence地址,需求池状态,需求池类型,创建人,更新人,创建时间,修改时间
+742,simapp,后台优化需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46088650,已排期,需求,欧龙,欧龙,2020-07-01 09:50:57,2020-08-10 14:39:00
+840,simapp,增加申请换卡入口,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46104201,已排期,需求,黄丹丽,黄丹丽,2020-07-29 15:34:19,2020-08-10 11:36:00
+898,simapp,红点提示需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089971,已排期,需求,杨少东,杨少东,2020-08-10 09:33:20,2020-08-10 11:18:00
+899,simapp,功能优化需求169-204,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=49711590,已排期,需求,杨少东,杨少东,2020-08-10 09:34:20,2020-08-10 11:15:00
+837,simapp,5G快签创建模板需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46100292,已排期,需求,杨少东,杨少东,2020-07-29 15:33:01,2020-08-10 11:09:00
+901,simapp,性能优化需求3,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=49712182,已讲解,需求,杨少东,杨少东,2020-08-10 09:35:36,2020-08-10 09:35:36
+900,simapp,UI优化需求75-92,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46097386,已讲解,需求,杨少东,杨少东,2020-08-10 09:34:56,2020-08-10 09:34:56
+861,simapp,APP头像上传严格校验上传后缀,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46095123,待验收,需求,温林顺,温林顺,2020-07-31 10:58:27,2020-08-07 10:21:00
+848,simapp,需求点22:号卡体检检测接口优化,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=49711390,待验收,需求,黄丹丽,黄丹丽,2020-07-29 16:50:26,2020-08-07 10:21:00
+844,simapp,后台优化需求16,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46088650,待验收,需求,杨少东,杨少东,2020-07-29 15:41:01,2020-08-07 10:21:00
+828,simapp,超级号管理后台渗透测试风险,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=49709834,待验收,需求,温林顺1,温林顺1,2020-07-24 09:15:40,2020-08-07 10:21:00
+868,simapp,根据集团要求，所有自有业务app及网站系统都要支持IPV6，包括后端程序。前端Nginx由运维负责，后续程序支持ipv6改造由研发负责，请排期，要求10月15日之前完成。,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=49713723,已讲解,需求,方木龙,方木龙,2020-08-03 17:32:21,2020-08-03 17:32:21
+845,simapp,接入超级SIM写卡组件,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=49709688,已排期,需求,欧龙,欧龙,2020-07-29 15:41:36,2020-07-30 09:24:00
+838,simapp,超级号PC和移动端官网开发,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46103831,已排期,需求,黄丹丽,黄丹丽,2020-07-29 15:33:24,2020-07-29 20:09:00
+843,simapp,性能优化需求（41-44）,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46095886,已排期,需求,杨少东,杨少东,2020-07-29 15:40:20,2020-07-29 17:00:00
+751,simapp,后端接口日志接入ELK需求,http://cmic.tools.bigcloudsys.cn/wiki/x/I2S-Ag,待验收,需求,黎政,黎政,2020-07-01 14:11:31,2020-07-29 16:39:00
+842,simapp,UI优化需求 （43~70）,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46097386,已排期,需求,杨少东,杨少东,2020-07-29 15:39:29,2020-07-29 16:18:00
+839,simapp,3、功能优化需求（104-166）,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46100610,已排期,需求,杨少东,杨少东,2020-07-29 15:33:37,2020-07-29 16:18:00
+847,simapp,通信安全防护优化及补漏,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46104507,已讲解,需求,欧龙,欧龙,2020-07-29 15:42:33,2020-07-29 15:42:33
+846,simapp,名片展示悬浮窗需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46100320,已讲解,需求,欧龙,欧龙,2020-07-29 15:42:09,2020-07-29 15:42:09
+841,simapp,支持名片创建分享和名片扫描识别添加到通讯录,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46103768,已讲解,需求,黄丹丽,黄丹丽,2020-07-29 15:36:37,2020-07-29 15:36:37
+799,simapp,"功能优化需求""14、29、31、35、37、48、52、58、62、67（后端完善）、68、69、70、71、72、73、74、75、76、77、78、80、81、82、83、85、86、87、89、90、91、92、93、94、95、96 、97、98、99、103""",http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089101,已排期,需求,杨少东,杨少东,2020-07-10 16:19:05,2020-07-28 17:09:00
+760,simapp,消息管理交互优化,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089510,待验收,需求,黄丹丽,黄丹丽,2020-07-01 17:22:19,2020-07-23 11:03:01
+728,simapp,功能优化需求46-54,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089101,待验收,需求,杨少东,杨少东,2020-06-29 16:39:43,2020-07-23 11:03:01
+709,simapp,运营管理后台操作日志管理需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089953,待验收,需求,杨少东,杨少东,2020-06-22 09:28:50,2020-07-23 11:03:01
+708,simapp,消息中心需求（前后端）,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089985,待验收,需求,杨少东,杨少东,2020-06-22 09:28:17,2020-07-23 11:03:01
+707,simapp,热更新及版本更新检查需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46090018,待验收,需求,杨少东,杨少东,2020-06-22 09:27:47,2020-07-23 11:03:01
+802,simapp,UI优化需求31、32、33、34、35、36、37、38、39、40、11、22,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46097386,待验收,需求,杨少东,杨少东,2020-07-10 16:21:10,2020-07-23 11:03:00
+800,simapp,性能优化需求29、34、36 33、37、35,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46095886,待验收,需求,杨少东,杨少东,2020-07-10 16:19:50,2020-07-23 11:03:00
+603,simapp,超级号获取用户权限整改需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46086367,终结,需求,杨少东,杨少东,2020-06-04 15:42:54,2020-07-20 09:46:55
+747,simapp,性能优化需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46095886,待验收,需求,杨少东,杨少东,2020-07-01 10:58:00,2020-07-15 15:21:00
+612,simapp,通信安全防护需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46085540,已排期,需求,欧龙,欧龙,2020-06-04 16:10:09,2020-07-14 09:57:01
+748,simapp,UI优化需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46097386,待验收,需求,杨少东,杨少东,2020-07-01 10:58:22,2020-07-13 16:39:00
+710,simapp,支付能力需求文档,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089328,待验收,需求,欧龙,欧龙,2020-06-22 10:17:41,2020-07-13 16:39:00
+765,simapp,20200701超级号APP渗透测试风险,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46098425,已排期,需求,温林顺1,温林顺1,2020-07-03 15:37:00,2020-07-03 16:06:00
+613,simapp,通信安全后台需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46086746,待验收,需求,欧龙,欧龙,2020-06-04 16:10:40,2020-06-30 15:45:01
+585,simapp,号卡体检H5分享回流需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46086458,待验收,需求,黄丹丽,黄丹丽,2020-06-02 17:27:22,2020-06-30 15:45:01
+584,simapp,号卡体检功能需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46072718,待验收,需求,黄丹丽,黄丹丽,2020-06-02 17:26:54,2020-06-30 15:45:01
+582,simapp,消息管理三期优化需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46086631,待验收,需求,黄丹丽,黄丹丽,2020-06-02 17:25:38,2020-06-30 15:45:01
+695,simapp,【紧急需求】SIM消息接口更新，配合SIM平台做安全整改,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46093379,待验收,需求,黄丹丽,黄丹丽,2020-06-19 09:28:45,2020-06-30 15:45:00
+683,simapp,支付管理后台,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089365,待验收,需求,欧龙,欧龙,2020-06-16 15:37:31,2020-06-30 15:45:00
+682,simapp,消息管理数据分析报表,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46088673,待验收,需求,黄丹丽,黄丹丽,2020-06-16 15:22:42,2020-06-30 15:45:00
+705,simapp,APP优化需求28-45,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089101,待验收,需求,杨少东,杨少东,2020-06-22 09:26:47,2020-06-30 14:45:00
+704,simapp,实名认证、口令管理优化需求 2.0,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46090044,待验收,需求,欧龙,欧龙,2020-06-20 10:28:00,2020-06-30 14:45:00
+644,simapp,APP优化需求（25点）,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089101,待验收,需求,杨少东,杨少东,2020-06-11 15:51:03,2020-06-30 14:45:00
+574,simapp,邀请好友需求（前后端）,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46086396,待验收,需求,杨少东,杨少东,2020-06-02 09:44:01,2020-06-30 14:42:01
+729,simapp,性能优化需求28点,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46095886,已讲解,需求,杨少东,杨少东,2020-06-29 16:40:16,2020-06-29 16:40:16
+706,simapp,APPicon红点提示需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089971,已讲解,需求,杨少东,杨少东,2020-06-22 09:27:14,2020-06-22 09:27:14
+703,simapp,账号注销需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46090044,已讲解,需求,欧龙,欧龙,2020-06-20 10:27:20,2020-06-20 10:27:20
+610,simapp,登录2.0需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46086645,待验收,需求,欧龙,欧龙,2020-06-04 16:08:42,2020-06-19 09:12:00
+572,simapp,5G快签优化需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46086385,待验收,需求,杨少东,杨少东,2020-06-02 09:42:44,2020-06-19 09:12:00
+569,simapp,simapp请求报文head参数校验,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46076270,待验收,需求,刘庆忠,刘庆忠,2020-06-01 10:39:57,2020-06-19 09:12:00
+583,simapp,我的和设置的三期优化需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46086421,待验收,需求,黄丹丽,黄丹丽,2020-06-02 17:26:03,2020-06-17 16:18:00
+575,simapp,核心功能数据报表需求（加V电话、SIM签）,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46086381,待验收,需求,杨少东,杨少东,2020-06-02 09:44:29,2020-06-17 16:18:00
+611,simapp,实名认证、口令管理优化,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46086416,待验收,需求,欧龙,欧龙,2020-06-04 16:09:42,2020-06-17 16:15:00
+581,simapp,快显消息优化三,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46087739,待验收,需求,黄丹丽,黄丹丽,2020-06-02 17:24:42,2020-06-17 15:33:00
+573,simapp,加V电话优化需求三,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46086562,待验收,需求,杨少东,杨少东,2020-06-02 09:43:18,2020-06-17 15:33:00
+528,simapp,加V电话优化需求二（11条）,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46078902,待验收,需求,杨少东,杨少东,2020-05-22 16:02:54,2020-06-16 09:51:01
+571,simapp,消息管理—本地短信管理优化需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46078338,待验收,需求,叶计成,叶计成,2020-06-01 11:43:24,2020-06-16 09:51:00
+617,simapp,Android端PDF文件加载优化需求（confluence第7点）,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46089101,待验收,需求,杨少东,杨少东,2020-06-08 09:44:01,2020-06-15 09:42:01
+474,simapp,消息管理本期优化需求点汇总，核心功能体验优化,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46080360,待验收,需求,黄丹丽,黄丹丽,2020-05-11 16:25:53,2020-06-12 15:12:01
+563,simapp,sim签 在APP端发起签署，签署方也装有APP的情况下，签署方APP应当弹出系统通知,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46076668,待验收,需求,杨春全,杨春全,2020-06-01 10:24:30,2020-06-12 15:12:00
+532,simapp,实名认证后台需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46084594,待验收,需求,欧龙,欧龙,2020-05-25 11:45:38,2020-06-08 14:36:00
+526,simapp,运管后台账号管理需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46084033,待验收,需求,杨少东,杨少东,2020-05-22 10:24:26,2020-06-08 14:36:00
+525,simapp,结算后台需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46083974,待验收,需求,欧龙,欧龙,2020-05-22 10:21:20,2020-06-08 14:36:00
+570,simapp,超级号APP上架至应用商城的前置安全评估,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46087090,待验收,需求,杨春全,杨春全,2020-06-01 10:50:43,2020-06-04 10:21:00
+568,simapp,basedata数据修复,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46076270,待验收,需求,刘庆忠,刘庆忠,2020-06-01 10:39:12,2020-06-04 10:21:00
+567,simapp,快显消息200ms响应优化,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46080360,待验收,需求,杨春全,杨春全,2020-06-01 10:25:36,2020-06-04 10:21:00
+566,simapp,快显消息V2.0接口升级,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46080360,待验收,需求,杨春全,杨春全,2020-06-01 10:25:24,2020-06-04 10:21:00
+565,simapp,快显消息压测&接口优化,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46080360,待验收,需求,杨春全,杨春全,2020-06-01 10:25:07,2020-06-04 10:21:00
+564,simapp,快线消息发送 异网用户判断&发送失败状态码,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46080360,待验收,需求,杨春全,杨春全,2020-06-01 10:24:47,2020-06-04 10:21:00
+562,simapp,快显消息详情页发送状态细化,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46080360,待验收,需求,杨春全,杨春全,2020-06-01 10:24:05,2020-06-04 10:21:00
+561,simapp,快显消息列表增量更新,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46080360,待验收,需求,杨春全,杨春全,2020-06-01 10:23:47,2020-06-04 10:21:00
+533,simapp,SIM签添加文件加载速度优化需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46084751,待验收,需求,杨少东,杨少东,2020-05-25 16:33:18,2020-06-04 09:33:00
+527,simapp,UI调整，5G云签代替超级SIM，超级SIM其他模块放入我的,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46084358,待验收,需求,杨少东,杨少东,2020-05-22 16:02:17,2020-06-04 09:33:00
+467,simapp,消息管理优化需求——新增登录引导和联系人搜索功能,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46079685,待验收,需求,黄丹丽,黄丹丽,2020-05-09 10:42:45,2020-06-03 14:36:01
+330,simapp,加V电话客户端需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=41024844,待验收,需求,杨少东,杨少东,2020-04-03 14:43:04,2020-06-03 14:36:01
+431,simapp,SIM签需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46076668,已排期,需求,杨少东,杨少东,2020-04-29 11:34:53,2020-05-29 11:15:00
+472,simapp,超级号服务端基础工具类,http://cmic.tools.bigcloudsys.cn/wiki/x/ehG-Ag,待验收,需求,杨春全,杨春全,2020-05-09 16:30:53,2020-05-26 09:15:00
+406,simapp,运营后台-运营管理配置需求,http://cmic.tools.bigcloudsys.cn/wiki/x/yuJxAg,待验收,需求,杨春全,杨春全,2020-04-23 15:17:01,2020-05-26 09:15:00
+211,simapp,超级SIM APP 登录需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=41014469,待验收,需求,杨少东,杨少东,2020-02-11 17:01:40,2020-05-15 14:42:00
+238,simapp,运营管理后台用户数据模块,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=41017825,待验收,需求,杨少东,杨少东,2020-03-02 17:06:31,2020-05-13 09:57:01
+340,simapp,实名认证二期,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46071910,待验收,需求,欧龙,欧龙,2020-04-07 11:36:42,2020-05-13 09:57:00
+331,simapp,加V电话运营管理后台需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=41024970,待验收,需求,杨少东,杨少东,2020-04-03 14:44:43,2020-05-13 09:54:00
+341,simapp,认证管理运营后台,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46071910,已排期,需求,欧龙,欧龙,2020-04-07 11:37:06,2020-05-09 10:18:00
+239,simapp,超级SIM APP 数据库表设计,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=41017807,待验收,需求,杨春全,杨春全,2020-03-04 11:06:39,2020-05-09 10:18:00
+215,simapp,超级 SIM APP 设置页功能需求,http://cmic.tools.bigcloudsys.cn/wiki/x/OdVxAg,待验收,需求,杨春全,杨春全,2020-02-12 15:49:23,2020-05-09 10:18:00
+445,simapp,加V电话优化需求一期,http://cmic.tools.bigcloudsys.cn/wiki/x/lhC-Ag,已排期,需求,杨春全,杨春全,2020-05-07 09:39:30,2020-05-07 09:45:00
+440,simapp,本地短信接管逻辑优化解决读取状态无法保存问题,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46078338,已排期,需求,黄丹丽,黄丹丽,2020-04-29 17:36:42,2020-04-29 20:21:00
+425,simapp,运营后台模板分类管理新增分类图标配置功能,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46077836,已排期,需求,黄丹丽,黄丹丽,2020-04-28 10:29:48,2020-04-28 10:54:00
+407,simapp,超级号APP客户端风险,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46076479,已讲解,需求,温林顺1,温林顺1,2020-04-23 16:06:14,2020-04-23 16:06:14
+389,simapp,超级SIM号卡体检,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46072718,已讲解,需求,黄丹丽,黄丹丽,2020-04-20 11:15:12,2020-04-20 11:15:12
+216,simapp,超级 SIM APP 版本更新功能需求,http://cmic.tools.bigcloudsys.cn/wiki/x/itdxAg,终结,需求,杨春全,杨春全,2020-02-12 15:58:19,2020-04-15 11:00:00
+214,simapp,超级sim app口令管理需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=41014999,终结,需求,钟孝源,钟孝源,2020-02-11 21:06:01,2020-04-15 11:00:00
+213,simapp,超级sim app消息管理需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=41014510,终结,需求,钟孝源,钟孝源,2020-02-11 21:05:06,2020-04-15 11:00:00
+212,simapp,超级sim app认证管理需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=41014568,终结,需求,钟孝源,钟孝源,2020-02-11 21:04:21,2020-04-15 11:00:00
+222,simapp,超级SIM APP 首页及二级菜单功能需求,http://cmic.tools.bigcloudsys.cn/wiki/x/j9dxAg,终结,需求,杨春全,杨春全,2020-02-14 14:28:05,2020-04-13 16:00:00
+220,simapp,开通和出示SIMeID需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=41015194,终结,需求,杨少东,杨少东,2020-02-14 11:29:17,2020-04-13 16:00:00
+342,simapp,超级号账单需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46071910,已排期,需求,欧龙,欧龙,2020-04-07 11:37:35,2020-04-07 15:00:00
+339,simapp,我的SIM卡消息需求,http://cmic.tools.bigcloudsys.cn/wiki/pages/viewpage.action?pageId=46071910,已排期,需求,欧龙,欧龙,2020-04-07 11:35:39,2020-04-07 15:00:00
